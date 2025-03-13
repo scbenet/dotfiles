@@ -1,2 +1,1 @@
-# dotfiles
-my config files for various programs
+configuration files for things I use
